@@ -1,5 +1,4 @@
 # e-fraud-sentinel
-E-Fraud Sentinel
 E-Fraud Sentinel is a Python-based E-fraud detection project for online payment transactions. It includes a clean web dashboard, transaction risk checker, case dataset, explainable scoring model, tests, project report, and PowerPoint presentation.
 
 Main Features
