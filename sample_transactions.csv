@@ -1,0 +1,25 @@
+transaction_id,customer,channel,amount,hour,country_mismatch,device_age,account_age,failed_logins,velocity_24h,merchant_risk,ip_risk,email_age,shipping_distance,chargebacks,card_country_match,payment_method,label
+TXN-1001,Asha Mehta,Checkout,42.50,14,false,380,760,0,1,8,4,680,12,0,true,Card,Legit
+TXN-1002,Rohan Kapoor,Wallet,1280,2,true,2,9,3,9,82,91,4,2880,1,false,Wallet,Fraud
+TXN-1003,Neha Rao,Checkout,315,10,false,210,380,0,2,22,15,350,34,0,true,Card,Legit
+TXN-1004,Omar Singh,Transfer,4920,23,true,16,22,2,6,68,76,18,1920,0,false,Bank,Fraud
+TXN-1005,Isha Nair,Subscription,19.99,9,false,560,890,0,1,10,8,820,0,0,true,Card,Legit
+TXN-1006,Dev Patel,Marketplace,780,18,false,25,43,1,5,48,39,65,510,0,true,Wallet,Legit
+TXN-1007,Mira Shah,Checkout,6320,1,true,1,3,5,14,88,96,2,4150,2,false,Crypto,Fraud
+TXN-1008,Arjun Das,Bill Pay,96,16,false,330,510,0,2,16,12,590,7,0,true,Bank,Legit
+TXN-1009,Sara Thomas,Checkout,1450,3,true,6,12,1,7,74,69,6,1320,0,false,Card,Fraud
+TXN-1010,Kabir Sen,Marketplace,249,20,false,180,260,0,3,34,22,190,88,0,true,Wallet,Legit
+TXN-1011,Priya Iyer,Checkout,2190,4,true,13,31,4,10,79,88,11,2420,1,false,Card,Fraud
+TXN-1012,Anil Verma,Recharge,16,12,false,720,940,0,1,6,5,860,0,0,true,Wallet,Legit
+TXN-1013,Fatima Khan,Checkout,875,15,false,62,155,1,4,42,34,140,260,0,true,Card,Legit
+TXN-1014,Vikram Menon,Transfer,3780,0,true,4,17,2,8,71,81,9,1760,0,false,Bank,Fraud
+TXN-1015,Elena Dsouza,Subscription,59,11,false,450,620,0,1,14,10,600,0,0,true,Card,Legit
+TXN-1016,Jay Bhat,Marketplace,1150,19,false,18,48,1,5,54,46,31,840,0,true,Wallet,Legit
+TXN-1017,Tara Bose,Checkout,5125,2,true,3,5,4,13,93,94,1,3600,2,false,Crypto,Fraud
+TXN-1018,Kiran Paul,Bill Pay,130,8,false,290,490,0,2,18,17,410,18,0,true,Bank,Legit
+TXN-1019,Sonal Jain,Checkout,980,21,true,10,26,2,6,66,71,14,1120,1,false,Card,Fraud
+TXN-1020,Manav Ghosh,Recharge,24,13,false,610,780,0,1,7,6,700,0,0,true,Wallet,Legit
+TXN-1021,Leah Fernandes,Marketplace,470,17,false,88,120,0,3,35,28,95,145,0,true,Card,Legit
+TXN-1022,Nikhil Roy,Transfer,2890,23,true,8,18,3,9,76,83,7,2050,1,false,Bank,Fraud
+TXN-1023,Meera Lal,Checkout,690,16,false,120,200,0,3,29,21,180,75,0,true,Card,Legit
+TXN-1024,Sameer Ali,Wallet,1640,5,true,12,37,2,7,63,73,12,1580,0,false,Wallet,Fraud
